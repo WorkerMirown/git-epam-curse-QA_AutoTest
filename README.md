@@ -1,0 +1,1 @@
+# git-epam-curse-QA_AutoTest
